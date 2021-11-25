@@ -1,0 +1,4 @@
+Dette er fil 2
+
+
+Oppfriskning i git
